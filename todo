@@ -1,0 +1,11 @@
+Maybe some sort of automatic file logger to save output of each run. optional toggle so not running while debugging. 
+some sort of debug vs production build so that unnecceary output is muted (only need averages)
+actual other functions to implement sine and such routines broken into multiple source files. i.e. break main.cpp into smaller files
+functions to benchmark sine functions with regard to error.
+
+Summary:
+Organization into smaller source files
+Error benchmarking functions
+Optional file output and muted runtime output
+new sin implementations
+graphing capabilities for error benchmarking and potentially also speed benchmarks. maybe use R; create report 
